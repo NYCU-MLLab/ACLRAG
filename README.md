@@ -1,2 +1,2 @@
 # ACLRAG
-Adversarial Contrastive Learning for Compressive RAG
+Adversarial Contrastive Learning for Efficient RAG
